@@ -1,3 +1,8 @@
+COMMUNICATION_TEST
+CODEX_TO_PROFESSOR
+TEST_ID: CW30D-001
+MESSAGE: 三方通信链路测试，请教授确认收到。
+
 # Professor Handoff
 
 当前没有需要提交的认知诊断。训练尚未开始，也没有学生回答可供判断。
